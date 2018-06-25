@@ -1,0 +1,135 @@
+.visib{
+	visibility: hidden;
+}
+.visib2{
+	visibility: hidden;
+}
+body{
+	background-image: url("Background.jpg");
+	background-size: cover;
+	/*background-color: plum;
+*/}
+html{
+	width: 100%;
+}
+#hours, #minutes, #seconds{
+	font-size: 50px;
+	font-family: 'Source Sans Pro', sans-serif;
+	color: white;
+
+
+}
+::placeholder{
+color: white;
+
+}
+
+.col{
+	font-size: 50px;
+	color: white;	
+}
+h1{
+	text-align: center;
+	color: white;
+	border-radius: 1px 1px 0 0;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+.btn-default{
+	margin: 0 auto;
+	width: 150px;
+	margin-bottom: 20px;
+	display: block;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-top: 2%;
+  
+  	border: 2px solid whitesmoke;
+  	background: rgba(0,0,0,0.2);
+  	border-radius: 30px;
+  	font-size: 1em;
+  	font-weight: 500;
+  	color: whitesmoke;
+  	
+}
+
+.taskname{
+	margin-top: 3px;
+	width: 250px;
+	border:none;
+	text-align: center;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 20px;
+	background-color:transparent; 
+	color:white;
+	
+}
+
+.bloc{
+	border: 2px dashed white;
+	margin-left: 20px;
+	height:300px;
+	margin-top: 5%;
+
+}
+
+.notb{
+	margin-left: 10%;
+	height:300px;
+	margin-top: 5%;
+	background-color: rgba(0,0,0,0.2);
+	border: 2px dashed black;
+}
+
+.start{
+	margin: 0 auto;
+	width: 100px;
+	margin-bottom: 10px;
+	display: block;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-top: 5%;
+	background: rgba(0,0,0,0.4);
+  
+  	border: 2px solid olivedrab;
+  	
+  	border-radius: 30px;
+  	font-size: 1em;
+  	font-weight: 500;
+  	color: yellowgreen;
+
+}
+
+.stop{
+	margin: 0 auto;
+	width: 100px;
+	margin-bottom: 10px;
+	display: block;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-top: 2%;
+  
+  	border: 2px solid indianred;
+  	background: rgba(0,0,0,0.4);
+  	border-radius: 30px;
+  	font-size: 1em;
+  	font-weight: 500;
+  	color: indianred;
+  	margin-bottom: 20px;
+
+}
+
+.fa-flag-checkered{
+	font-size: 50px;
+	margin-bottom: 15px;
+	color: white;
+
+}
+
+.vb{
+	border: 2px dashed black;
+	height:300px;
+
+	
+	
+}
